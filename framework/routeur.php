@@ -1,7 +1,7 @@
 <?php		
 	/*!
 	* Bootstrap v1.2.1 (https://enovadev.com/)
-	* Copyright 2021-2022 The Bootstrap Authors (https://https://github.com/Taldorus/enovaframework/contributors)
+	* Copyright 2021-2023 The Bootstrap Authors (https://https://github.com/Taldorus/enovaframework/contributors)
 	* Licensed under exclusive copyright (https://https://github.com/Taldorus/enovaframework/master/LICENSE)
 	*/
 	
