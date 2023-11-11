@@ -1,6 +1,18 @@
-This software released into the private domain.
+License Charter for [enovaframework]
+1. Introduction
+This license charter governs the use and distribution of enovaframework, hereinafter referred to as "the Framework". By downloading, copying, or using the Framework, you agree to the terms of this license.
 
-No one can copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+2. Copyright
+The Framework is © [2019] by [Belkhodja Samy Mokhtar]. All rights reserved.
+
+3. License and Restrictions
+Private Domain: This software is released into the private domain.
+Restrictions: No one may copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+4. Limitations
+You may not use the name of [Your Name or Organization] to promote derivative products of the Framework without prior written permission.
+The Framework is provided "as is", without any kind of warranty.
+5. Contribution
+Contributions to the Framework are welcome via pull requests on GitHub. All contributions will also be subject to the terms of this license.
+
+6. Contact
+For any questions or requests regarding this license, please contact [bsm.courrier@gmail.com].
