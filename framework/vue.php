@@ -103,7 +103,7 @@
 
 		private function getTranslationFolder(){
 			$viewFolder = "views/";
-			$allowed_domaine = array('azurlingua.com', 'fr.azurlingua.com', 'it.azurlingua.com', 'de.azurlingua.com', 'es.azurlingua.com','ru.azurlingua.com','jp.azurlingua.com', 'en.azurlingua.com');
+			$allowed_domaine = array('enovadev.com', 'fr.enovadev.com', 'it.enovadev.com', 'de.enovadev.com', 'es.enovadev.comm','ru.enovadev.com','jp.enovadev.com', 'en.enovadev.com');
 			if (isset($_SERVER['HTTP_HOST'])&&($_SERVER['HTTP_HOST']!='')){
 				if (in_array($_SERVER['HTTP_HOST'], $allowed_domaine)){
 					$DomainName = explode('.', $_SERVER['SERVER_NAME']);
